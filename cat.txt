@@ -2,8 +2,4 @@ first commit
 second commit
 Third commit
 fourth commit
-dfdf
-fg
-fgdfg
-dfdgdfgdf
-g
+bad commit
