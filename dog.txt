@@ -1,6 +1,0 @@
-first commit
-second commit
-Third commit
-fourth commit
-Bad commit
-Third commit
